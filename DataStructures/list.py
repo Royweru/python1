@@ -1,10 +1,9 @@
-friends = ['Roy', 'weru', 'Designer']
+friends = ['Roy', 'weru', 'Designer', 'Ann', 'kim']
 
-people = friends.copy()
 
-people.append('meee')
+print(friends[1:3])
 
-print(friends)
-print(people)
+
+
 
 
