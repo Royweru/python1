@@ -6,3 +6,4 @@ def say_hello():
         print("oops you didn't tell me your name")
 
 
+say_hello()

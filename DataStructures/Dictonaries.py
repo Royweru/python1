@@ -3,7 +3,7 @@
 #Has order
 #You can modify data in dictonaries
 
-friends_ages = {"Roy":29, "Jaydeh":20 ,"Marie":25 }
+friends_ages = {"Roy": 29, "Jaydeh": 20, "Marie": 25}
 friends = friends_ages.copy()
 friends.update({"Weru": 13, "Mugweru": 17})
 
